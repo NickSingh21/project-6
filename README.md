@@ -1,6 +1,5 @@
-# Project 5 - *Name of App Here*
-
-Submitted by: **Your Name Here**
+# Project 5 - *Trivia Game*
+Submitted by: **Nicholas Doorgasingh**
 
 **Trivia Game App** is an app that is based on trivia ... [TODO] 
 
