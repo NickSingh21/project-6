@@ -1,5 +1,5 @@
 ---
-title: 'UI Review, Maps and Photos'
+title: 'BrainStorming1__NicholasDoorgasingh'
 
 ---
 
@@ -20,3 +20,4 @@ title: 'UI Review, Maps and Photos'
 1.The photos stand out to me
 2.You can post pictures
 3.There are features where you can post a photo and see the location of the photo
+4. You can like and tag people in the photos
